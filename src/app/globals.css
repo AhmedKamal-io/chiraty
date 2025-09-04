@@ -1,8 +1,7 @@
 @import "tailwindcss";
-@import "tw-animate-css";
 
 :root {
-  --Blacky: ;
+  --Blacky: #000;
   --BlackyFade1: ;
   --BlackyFade2: ;
   --Whitey: ;
